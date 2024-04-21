@@ -1,0 +1,19 @@
+{
+  "name": "learn-websocket-with-socketio",
+  "version": "1.0.0",
+  "description": "https://www.youtube.com/watch?v=VLXAzzRjQws\r NodeJS: TCP Networking with Net Module\r https://www.youtube.com/watch?v=LPDJvR5guGA",
+  "main": "http.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon s.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
